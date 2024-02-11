@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://highgradient.com/superjp.html/sitemap.xml
+Sitemap: http://highgradient.com/gilajp.html/sitemap.xml
+Sitemap: http://highgradient.com/gojekpot.html/sitemap.xml
+Sitemap: http://highgradient.com/winstrike69.html/sitemap.xml
+Sitemap: http://highgradient.com/jagoan86.html/sitemap.xml
+Sitemap: http://highgradient.com/slotzeus.html/sitemap.xml
+Sitemap: http://highgradient.com/kaptenjackpot.html/sitemap.xml
+Sitemap: http://highgradient.com/boosterjp.html/sitemap.xml
+Sitemap: http://highgradient.com/kerajaanslot.html/sitemap.xml
+Sitemap: http://highgradient.com/pakong86.html/sitemap.xml
+Sitemap: http://highgradient.com/viral88.html/sitemap.xml
+Sitemap: http://highgradient.com/clan4d.html/sitemap.xml
+Sitemap: http://highgradient.com/dinamit4d.html/sitemap.xml
+Sitemap: http://highgradient.com/elang212.html/sitemap.xml
+Sitemap: http://highgradient.com/gori77.html/sitemap.xml
+Sitemap: http://highgradient.com/viral4d.html/sitemap.xml
+Sitemap: http://highgradient.com/playground88.html/sitemap.xml
